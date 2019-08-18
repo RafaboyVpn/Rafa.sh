@@ -1,1 +1,8 @@
+# apt-get update -y
+
+# apt-get install stunnel4 -y
+
+# apt-get install stunnel -y
+
+# openssl genrsa 1024 > stunnel.key
 
